@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: var(--background-header);
+    color: var(--text-color);
+    height: 4rem;
+}
+
+.header strong {
+    display: flex;
+    align-items: center;
+}
